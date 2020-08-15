@@ -1,0 +1,13 @@
+D:\Curso CSHARP\Ex_resolvido_video_119\Ex_resolvido_video_119\bin\Debug\netcoreapp3.1\Ex_resolvido_video_119.exe
+D:\Curso CSHARP\Ex_resolvido_video_119\Ex_resolvido_video_119\bin\Debug\netcoreapp3.1\Ex_resolvido_video_119.deps.json
+D:\Curso CSHARP\Ex_resolvido_video_119\Ex_resolvido_video_119\bin\Debug\netcoreapp3.1\Ex_resolvido_video_119.runtimeconfig.json
+D:\Curso CSHARP\Ex_resolvido_video_119\Ex_resolvido_video_119\bin\Debug\netcoreapp3.1\Ex_resolvido_video_119.runtimeconfig.dev.json
+D:\Curso CSHARP\Ex_resolvido_video_119\Ex_resolvido_video_119\bin\Debug\netcoreapp3.1\Ex_resolvido_video_119.dll
+D:\Curso CSHARP\Ex_resolvido_video_119\Ex_resolvido_video_119\bin\Debug\netcoreapp3.1\Ex_resolvido_video_119.pdb
+D:\Curso CSHARP\Ex_resolvido_video_119\Ex_resolvido_video_119\obj\Debug\netcoreapp3.1\Ex_resolvido_video_119.csprojAssemblyReference.cache
+D:\Curso CSHARP\Ex_resolvido_video_119\Ex_resolvido_video_119\obj\Debug\netcoreapp3.1\Ex_resolvido_video_119.AssemblyInfoInputs.cache
+D:\Curso CSHARP\Ex_resolvido_video_119\Ex_resolvido_video_119\obj\Debug\netcoreapp3.1\Ex_resolvido_video_119.AssemblyInfo.cs
+D:\Curso CSHARP\Ex_resolvido_video_119\Ex_resolvido_video_119\obj\Debug\netcoreapp3.1\Ex_resolvido_video_119.csproj.CoreCompileInputs.cache
+D:\Curso CSHARP\Ex_resolvido_video_119\Ex_resolvido_video_119\obj\Debug\netcoreapp3.1\Ex_resolvido_video_119.dll
+D:\Curso CSHARP\Ex_resolvido_video_119\Ex_resolvido_video_119\obj\Debug\netcoreapp3.1\Ex_resolvido_video_119.pdb
+D:\Curso CSHARP\Ex_resolvido_video_119\Ex_resolvido_video_119\obj\Debug\netcoreapp3.1\Ex_resolvido_video_119.genruntimeconfig.cache
